@@ -10,7 +10,7 @@ These are my flags. Representing where I come from: Tonga, Aotearoa (New Zealand
 
 ## What Do I Do
 
-Full-stack developer with over a decade of experience. I build software products from scratch - backend, frontend, mobile, infrastructure, all of it.
+Full-stack developer with over a decade of experience building software products from scratch - backend, frontend, mobile, infrastructure, all of it.
 
 - Full-stack development, backend to frontend
 - Native and hybrid mobile apps
