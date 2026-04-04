@@ -2,9 +2,9 @@
 
 These are my flags. Representing where I come from: Tonga, Aotearoa (New Zealand) and Scottland 🫡
 
-<img src="https://github.com/user-attachments/assets/c9957ca6-295e-4120-89b5-fe5907e59ad6" height="300" />
-<img src="https://github.com/user-attachments/assets/63da16ed-f98e-4661-919f-bb4ed439ddc5" height="300" />
-<img src="https://github.com/user-attachments/assets/d5a70a07-bd17-4064-81ab-48dfd5b3c1cd" height="300" />
+<img src="https://github.com/user-attachments/assets/c9957ca6-295e-4120-89b5-fe5907e59ad6" height="250" />
+<img src="https://github.com/user-attachments/assets/63da16ed-f98e-4661-919f-bb4ed439ddc5" height="250" />
+<img src="https://github.com/user-attachments/assets/d5a70a07-bd17-4064-81ab-48dfd5b3c1cd" height="250" />
 
 ---
 
