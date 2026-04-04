@@ -1,6 +1,6 @@
 # Hey, I'm Tino👋
 
-These are my flags. Representing where I come from: Tonga, Aotearoa (New Zealand) and Scottland 🫡
+These are my flags. Representing where I come from: Tonga, Aotearoa (New Zealand) and Scotland 🫡
 
 <img src="https://github.com/user-attachments/assets/c9957ca6-295e-4120-89b5-fe5907e59ad6" height="250" />
 <img src="https://github.com/user-attachments/assets/63da16ed-f98e-4661-919f-bb4ed439ddc5" height="250" />
