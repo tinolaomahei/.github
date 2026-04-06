@@ -22,11 +22,11 @@ Full-stack developer with over a decade of experience building software products
 
 ## What Am I Building
 
+- **Orbit** - Desired state orchestration for life, work and everything in between
 - **[Datanest](https://github.com/datanest)** - My software development company specialising in full-stack, mobile, and AI-powered solutions
 - **[IwiConnect](https://github.com/iwiconnect)** - New Zealand's first Maori-built digital platform for compliant iwi engagement (CTO)
 - **Brainy** - AI-assisted development platform for senior architects. Design framework-agnostic data models, business logic, and UI components guided by your own development standards, then export to any tech stack
-- **Cosmos** - Software development orchestrator for managing and orchestrating development workflows
-- **Polaris** - Personal AI assistant infrastructure. Context-aware, preference-driven, and built to improve over time
+- **Cosmos** - Software development orchestrator for managing and orchestrating development workflow
 
 ---
 
